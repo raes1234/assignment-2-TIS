@@ -12,10 +12,7 @@ Reflection
 We learned how IT specialists work in industry compared to academics, and how digital skills are essential across many fields.
 
 Prepared By
-Wong Jian Fu
-
-Rhiddhi Subha Siddique
-
-Ariff Naim bin Zamzan
-
-Raestra Palevie Hamid
+- Wong Jian Fu
+- Rhiddhi Subha Siddique
+- Ariff Naim bin Zamzan
+- Raestra Palevie Hamid

@@ -1,35 +1,21 @@
-📖 Overview
-This repository contains documentation of our participation in the PPG Industry Talk at Universiti Teknologi Malaysia. The session introduced PPG as a global manufacturer specializing in paints, coatings, and specialty materials, and explored how their teams manage IT services, data analytics, and ERP systems to support innovation and product quality.
+Overview
+This repository contains notes from the PPG Industry Talk at Universiti Teknologi Malaysia. PPG is a global manufacturer specializing in paints, coatings, and specialty materials.
 
-🎯 Objectives
-understand PPG’s organizational teams: Data Analytics CoE, Global Infrastructure CoE, and SAP CoE.
+Key Points
+Teams: Data Analytics CoE, Global Infrastructure CoE, SAP CoE
 
-gain industry exposure: Learn how IT specialists operate in real-world contexts compared to academic settings.
+Benefits: Mentorship, cross‑functional experience, global projects
 
-identify career opportunities: Explore mentorship, cross-functional experience, and global project involvement.
+Skills: SQL, cloud architecture, ERP integration
 
-🛠️ Teams in PPG
-Data Analytics CoE: Raw data analysis, decision-making, growth opportunities.
+Reflection
+We learned how IT specialists work in industry compared to academics, and how digital skills are essential across many fields.
 
-Global Infrastructure CoE: Planning, building, and running IT services with focus on cloud, networking, and security.
+Prepared By
+Wong Jian Fu
 
-SAP CoE: ERP solutions that integrate core business processes across organizations.
+Rhiddhi Subha Siddique
 
-📂 Key Skills Highlighted
-Data Analytics: SQL, visualization, DevOps, database design.
+Ariff Naim bin Zamzan
 
-Infrastructure: Cloud architecture, LAN/WAN, servers, zero-trust security.
-
-ERP (SAP): Business process integration, enterprise resource planning fundamentals.
-
-💡 Insights & Reflection
-The talk emphasized the difference between academic and industry practices, including larger data sizes, higher complexity, and diverse stakeholders. We learned that IT professionals are essential across industries, not just in technology-focused companies. The session broadened our perspective on career paths and industry expectations.
-
-👥 Prepared By
-Wong Jian Fu (A25CS0158)
-
-Rhiddhi Subha Siddique (A24CS4090)
-
-Ariff Naim bin Zamzan (A25CS0195)
-
-Raestra Palevie Hamid (A25CS0384)
+Raestra Palevie Hamid
